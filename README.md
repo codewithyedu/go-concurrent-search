@@ -45,4 +45,4 @@ If any category times out, you will see a `--- timeout ---` message.
 - **Real API Integration**: Replace `fakeSearch` with actual search APIs to retrieve live results.
 
 ## License
-This project is licensed under the MIT License.
+This program is licensed under the MIT License.
